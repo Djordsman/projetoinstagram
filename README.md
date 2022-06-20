@@ -1,2 +1,2 @@
 # projetoinstagram.github.io
-Desenvolvimento da simulação da web do Instagram.
+Desenvolvimento da simulação da rede social Instagram.
